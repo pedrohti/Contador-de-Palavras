@@ -1,0 +1,9 @@
+C:\Users\PedroH\source\repos\contaPalavras\contaPalavras\bin\Release\contaPalavras.exe.config
+C:\Users\PedroH\source\repos\contaPalavras\contaPalavras\bin\Release\contaPalavras.exe
+C:\Users\PedroH\source\repos\contaPalavras\contaPalavras\bin\Release\contaPalavras.pdb
+C:\Users\PedroH\source\repos\contaPalavras\contaPalavras\obj\Release\contaPalavras.Form1.resources
+C:\Users\PedroH\source\repos\contaPalavras\contaPalavras\obj\Release\contaPalavras.Properties.Resources.resources
+C:\Users\PedroH\source\repos\contaPalavras\contaPalavras\obj\Release\contaPalavras.csproj.GenerateResource.cache
+C:\Users\PedroH\source\repos\contaPalavras\contaPalavras\obj\Release\contaPalavras.csproj.CoreCompileInputs.cache
+C:\Users\PedroH\source\repos\contaPalavras\contaPalavras\obj\Release\contaPalavras.exe
+C:\Users\PedroH\source\repos\contaPalavras\contaPalavras\obj\Release\contaPalavras.pdb

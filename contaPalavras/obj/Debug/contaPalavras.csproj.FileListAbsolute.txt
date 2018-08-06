@@ -1,0 +1,12 @@
+C:\Users\PedroH\source\repos\contaPalavras\contaPalavras\bin\Debug\contaPalavras.exe.config
+C:\Users\PedroH\source\repos\contaPalavras\contaPalavras\bin\Debug\contaPalavras.exe
+C:\Users\PedroH\source\repos\contaPalavras\contaPalavras\bin\Debug\contaPalavras.pdb
+C:\Users\PedroH\source\repos\contaPalavras\contaPalavras\obj\Debug\contaPalavras.csprojAssemblyReference.cache
+C:\Users\PedroH\source\repos\contaPalavras\contaPalavras\obj\Debug\contaPalavras.Form1.resources
+C:\Users\PedroH\source\repos\contaPalavras\contaPalavras\obj\Debug\contaPalavras.Properties.Resources.resources
+C:\Users\PedroH\source\repos\contaPalavras\contaPalavras\obj\Debug\contaPalavras.csproj.GenerateResource.cache
+C:\Users\PedroH\source\repos\contaPalavras\contaPalavras\obj\Debug\contaPalavras.csproj.CoreCompileInputs.cache
+C:\Users\PedroH\source\repos\contaPalavras\contaPalavras\obj\Debug\contaPalavras.exe
+C:\Users\PedroH\source\repos\contaPalavras\contaPalavras\obj\Debug\contaPalavras.pdb
+C:\Users\PedroH\source\repos\contaPalavras\contaPalavras\bin\Debug\contaPalavras.exe.CodeAnalysisLog.xml
+C:\Users\PedroH\source\repos\contaPalavras\contaPalavras\bin\Debug\contaPalavras.exe.lastcodeanalysissucceeded
